@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/6d02999d-4ab7-41cf-a7c2-271e54c16978/resourceGroups/desafio-sdiascode1/providers/Microsoft.Web/sites/desafiosdiascode"
+}
